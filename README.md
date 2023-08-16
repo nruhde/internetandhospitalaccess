@@ -1,1 +1,3 @@
-"# internetandhospitalaccess" 
+"# internetandhospitalaccess
+Welcome to the Internet and Hospital Access Project! This project uses data from the NPI Registry and IPUMS to look at relationships between hospital access and internet connectivity in Cook County. To learn more, check out the final paper for the project, titled 'paper.ipynb.' 
+This project has three primary dependencies. First, cookcountyinternet.shp and its supporting files outline all of the internet data regarding Cook County. Second, geocoded_shape.shp and its supporting files outline a geocoded version of all of the providers in Cook County, based on the NPI Registry. Finally, zip codes in Cook County is a list of ZIP Codes that are in Cook County to help slim down the list of providers in the County." 
